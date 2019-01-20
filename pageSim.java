@@ -2,7 +2,7 @@
 /**
  * Virtual Memory Simulator; decides what pages to add to the virtual memory; 3 different algorithms: Least Recently Used, First-in First-out, and Random
  * 
- * @author Nolan Aubuchon, [Team Member], [Team Member]
+ * @author Nolan Aubuchon and 2 other team members
  * @version October 28, 2015
  */
 import java.io.*;
